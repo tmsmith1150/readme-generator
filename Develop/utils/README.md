@@ -1,15 +1,9 @@
-# SHELLY
+# SHELLYS PROJECT
   ![License: None](https://tmsmith1150.github.io/readme-generator/.None
 
-__#Info__
-github
-tmsmith1150
-
-__#Project 1__ 
-shelly
 
 __##Description__
-shellys project
+this is my project
 
 __##Table of Contents__
 _Installation:_
@@ -23,15 +17,19 @@ _To install the necessary dependencies, run the following command:_
 npm i
 
 __##Usage__
-shelly
+easy
 
 __##License__
-a valide one
+MIT
 
 __##Contributing__
-can contribute
+can contr
 
 __##Tests__
 _To run the necessary tests, run the following command:_
 npm run test
+
+__##Questions__
+![GitHub: tmsmith1150 : ](https://github.com/tmsmith1150?tab=repositories)
+![Email: tmsmith1150@live.com : ]("mailto:tmsmith1150@live.com")
 

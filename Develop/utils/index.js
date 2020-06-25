@@ -31,10 +31,14 @@ function init() {
             message: "Please write a short description of your project."
           },
           {
-            type: "input",
+            type: "checkbox",
             name: "license",
             message: "What kind of license should your project have?",
-            choices: ['A', 'B', 'C', 'D'],
+            choices: [
+              "MIT", 
+              "APACHE 2.0", 
+              "GPL 3.0", 
+              "BSD 3"],
           },
           {
             type: "input",

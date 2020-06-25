@@ -3,12 +3,6 @@ function generateMarkdown(data) {
   return `# ${data.name.toUpperCase()}
   ![License: ${(data.lic) ? data.lic : 'None'}](https://tmsmith1150.github.io/readme-generator/.${(data.lic) ? data.lic : 'None'}
 
-__#Info__
-${data.github}
-${data.email}
-
-__#Project 1__ 
-${data.name}
 
 __##Description__
 ${data.descrip}
@@ -25,7 +19,7 @@ _To install the necessary dependencies, run the following command:_
 ${data.depend}
 
 __##Usage__
-${data.name}
+${data.use}
 
 __##License__
 ${data.license}
@@ -36,6 +30,10 @@ ${data.contr}
 __##Tests__
 _To run the necessary tests, run the following command:_
 ${data.tests}
+
+__##Questions__
+![GitHub: ${data.github} : ](https://github.com/tmsmith1150?tab=repositories)
+![Email: ${data.email} : ]("mailto:tmsmith1150@live.com")
 
 `
 
