@@ -1,35 +1,37 @@
-# SHELLYS PROJECT
-  ![License: None](https://tmsmith1150.github.io/readme-generator/.None
+# SHELLY FIRST PROJ
+  ![License:https://img.shields.io/endpoint?url=<MIT](https://tmsmith1150.github.io/readme-generator/.MIT>&style<STYLE>
 
 
 __##Description__
-this my other new project
+my proj
 
-__##Table of Contents__
-_Installation:_
-_Usage:_
-_Contributors:_
-_Tests:_
-_Questions:_
+## Table of Contents
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [Tests](#Tests)
+- [License](#License)
+- [Questions](#Questions)
 
 __##Installation__
 _To install the necessary dependencies, run the following command:_
-npm i
+the npm i
 
 __##Usage__
-easy to use
+easy peasy
 
 __##License__
-MIT,APACHE 2.0,GPL 3.0
+MIT
 
 __##Contributing__
-can contrib
+can
 
 __##Tests__
 _To run the necessary tests, run the following command:_
-npm run test
+the npm run
 
 __##Questions__
-![GitHub: tmsmith1150github : ](https://github.com/tmsmith1150?tab=repositories)
-![Email: tmsmith1150@live : ]("mailto:tmsmith1150@live.com")
+![GitHub: tmsmithGithub : ](https://github.com/tmsmith1150?tab=repositories)
+![Email: tmsmithemail : ]("mailto:tmsmith1150@live.com")
 

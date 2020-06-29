@@ -1,18 +1,20 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.name.toUpperCase()}
-  ![License: ${(data.lic) ? data.lic : 'None'}](https://tmsmith1150.github.io/readme-generator/.${(data.lic) ? data.lic : 'None'}
+  ![License:https://img.shields.io/endpoint?url=<${(data.license) ? data.license : 'None'}](https://tmsmith1150.github.io/readme-generator/.${(data.license) ? data.license : 'None'}>&style<STYLE>
 
 
 __##Description__
 ${data.descrip}
 
-__##Table of Contents__
-_Installation:_
-_Usage:_
-_Contributors:_
-_Tests:_
-_Questions:_
+## Table of Contents
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [Tests](#Tests)
+- [License](#License)
+- [Questions](#Questions)
 
 __##Installation__
 _To install the necessary dependencies, run the following command:_
